@@ -1,6 +1,5 @@
-# idoc
-
-A new Flutter project.
+# Rest-API-with-flutter--with-fake-api-
+Rest-API-with-flutter--with-fake-api-
 
 ## Getting Started
 
